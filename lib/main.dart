@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:flutter/widgets.dart'; 
 import 'package:wolowachin_project_2/screens/share_journal_screen.dart';
 import 'package:wolowachin_project_2/screens/shared_journal_page.dart';
 import 'package:wolowachin_project_2/screens/signup_screen.dart';
